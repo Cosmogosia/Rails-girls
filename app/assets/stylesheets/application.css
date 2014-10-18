@@ -24,5 +24,9 @@ th {border-bottom: 1px solid #DDD;}
 .img-container img{
   border-radius:10px;
   width:400px;
-  height:400px;
+  height:auto;
+}
+
+textarea, input[type=text]{
+  color: blue;
 }
